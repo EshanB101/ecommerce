@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "e-commerce-ac61e": {
+      "hosting": {
+        "e-commerce-app": [
+          "e-commerce-ac61e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "e-commerce-ac61e"
+  }
+}
